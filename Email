@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css-email" type="text/css" rel="stylesheet" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>SalazarMail</h1>
+      <p>Welcome to Salazarmail! You have [] new messages.</p>
+      <button class="create-message-button">Create Message</button>
+    </header>
+    <div class="message-area">
+      <div class="content">
+
+      </div>
+      <div class="message-box">
+        <h2>Draft</h2>
+        <textarea placeholder="Draft"></textarea>
+      </div>
+    </div>
+    <div class="contacts">
+      <h2>Contact List</h2>
+      <div class="contact-box">
+        <div class="contact-profile"></div>
+        <span class="contact-name">Person 1</span>
+        <!-- Lorem Ipsum contact message -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="contact-box">
+        <div class="contact-profile"></div>
+        <span class="contact-name">Person 2</span>
+        <!-- Lorem Ipsum contact message -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="contact-box">
+        <div class="contact-profile"></div>
+        <span class="contact-name">Person 3</span>
+        <!-- Lorem Ipsum contact message -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="contact-box">
+        <div class="contact-profile"></div>
+        <span class="contact-name">Person 4</span>
+        <!-- Lorem Ipsum contact message -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="contact-box">
+        <div class="contact-profile"></div>
+        <span class="contact-name">Person 5</span>
+        <!-- Lorem Ipsum contact message -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="contact-box">
+        <div class="contact-profile"></div>
+        <span class="contact-name">Person 6</span>
+        <!-- Lorem Ipsum contact message -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <p>&copy; 2023 Salazar</p>
+  </footer>
+</body>
+</html>
